@@ -1,0 +1,27 @@
+product_id,product_name,category,brand,price,cost,weight_kg,in_stock,rating,reviews_count
+PROD-001,Laptop Pro,Home & Garden,Brand E,424.17,226.81,3.59,822,4.6,878
+PROD-002,Wireless Mouse,Books,Brand C,115.28,36.75,2.86,319,5.0,225
+PROD-003,Keyboard Deluxe,Sports,Brand E,332.03,170.66,4.51,414,2.9,224
+PROD-004,"Monitor 27""",Books,Brand E,252.6,127.6,0.49,820,4.3,563
+PROD-005,Tablet Air,Books,Brand C,433.79,133.7,9.79,826,1.6,426
+PROD-006,Smartphone X,Clothing,Brand A,229.98,131.56,1.28,562,3.0,673
+PROD-007,Headphones,Clothing,Brand C,356.69,114.3,7.72,536,2.4,902
+PROD-008,Speaker Bluetooth,Clothing,Brand D,140.76,86.55,6.26,317,4.0,450
+PROD-009,Camera DSLR,Clothing,Brand A,68.93,46.95,8.85,518,4.3,9
+PROD-010,Printer Laser,Clothing,Brand C,446.81,246.5,1.81,937,4.8,671
+PROD-011,T-Shirt Cotton,Electronics,Brand B,101.92,46.79,8.54,768,2.2,243
+PROD-012,Jeans Classic,Clothing,Brand C,162.59,111.87,1.95,777,2.5,824
+PROD-013,Sneakers Sport,Home & Garden,Brand C,333.03,205.11,7.76,354,4.9,926
+PROD-014,Jacket Winter,Home & Garden,Brand B,384.15,230.13,4.52,102,4.4,391
+PROD-015,Dress Summer,Sports,Brand C,23.57,15.91,9.44,101,1.7,697
+PROD-016,Novel Mystery,Electronics,Brand D,361.81,266.16,9.11,625,2.9,429
+PROD-017,Cookbook Italian,Electronics,Brand E,334.92,119.65,3.26,302,1.7,232
+PROD-018,Biography Famous,Electronics,Brand A,101.93,72.5,2.88,472,3.8,579
+PROD-019,Textbook Science,Books,Brand B,234.53,153.35,7.39,865,4.9,936
+PROD-020,Comic Adventure,Home & Garden,Brand E,494.23,172.03,8.3,129,2.1,503
+PROD-021,Garden Tool Set,Home & Garden,Brand B,421.32,178.54,0.96,962,4.6,723
+PROD-022,Plant Pot Large,Books,Brand B,297.38,234.53,1.07,450,4.5,800
+PROD-023,Fertilizer Organic,Electronics,Brand B,59.54,45.63,5.74,23,2.9,323
+PROD-024,Seeds Vegetable,Books,Brand B,499.52,197.66,4.4,526,4.4,739
+PROD-025,Hose Garden,Electronics,Brand E,91.57,51.67,4.37,175,3.0,460
+PROD-026,Tennis Racket,Clothing,Brand B,130.08,103.33,5.55,143,3.1,297

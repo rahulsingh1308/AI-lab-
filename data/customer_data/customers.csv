@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,age,gender,city,state,registration_date,is_premium,total_spent
+CUST-0001,Tom,Brown,tom.brown1@email.com,46,Male,Chicago,CA,2023-01-30,False,3248.77
+CUST-0002,Sarah,Davis,sarah.davis2@email.com,66,Female,Chicago,NY,2021-10-18,False,3841.39
+CUST-0003,Emma,Davis,emma.davis3@email.com,55,Male,Phoenix,AZ,2023-05-21,True,2319.26
+CUST-0004,Sarah,Brown,sarah.brown4@email.com,29,Female,New York,CA,2022-05-22,False,4821.93
+CUST-0005,John,Garcia,john.garcia5@email.com,41,Female,Houston,NY,2023-04-02,True,663.9
+CUST-0006,Sarah,Smith,sarah.smith6@email.com,47,Female,New York,IL,2020-11-15,False,508.8
+CUST-0007,John,Johnson,john.johnson7@email.com,68,Male,Philadelphia,AZ,2021-09-21,True,2846.05
+CUST-0008,Jane,Garcia,jane.garcia8@email.com,37,Male,Houston,IL,2020-08-09,True,4449.61
+CUST-0009,Jane,Williams,jane.williams9@email.com,56,Male,Los Angeles,IL,2021-05-31,False,3166.95
+CUST-0010,David,Garcia,david.garcia10@email.com,20,Female,Philadelphia,TX,2023-01-13,False,2528.34
+CUST-0011,Mike,Davis,mike.davis11@email.com,59,Male,New York,PA,2020-09-17,False,2087.81
+CUST-0012,Amy,Garcia,amy.garcia12@email.com,60,Male,Chicago,CA,2020-12-18,True,239.24
+CUST-0013,Chris,Williams,chris.williams13@email.com,47,Male,Chicago,AZ,2021-01-22,True,4759.1
+CUST-0014,Chris,Davis,chris.davis14@email.com,41,Male,Houston,NY,2021-11-29,False,2343.08
+CUST-0015,Amy,Davis,amy.davis15@email.com,53,Male,New York,CA,2023-12-15,True,4576.45
+CUST-0016,Lisa,Johnson,lisa.johnson16@email.com,27,Female,Philadelphia,IL,2020-10-07,False,2838.9
+CUST-0017,Chris,Brown,chris.brown17@email.com,70,Female,Philadelphia,NY,2021-05-31,False,2357.35
+CUST-0018,John,Johnson,john.johnson18@email.com,24,Male,Chicago,IL,2021-02-27,True,285.63
+CUST-0019,Amy,Jones,amy.jones19@email.com,77,Male,Los Angeles,TX,2023-08-16,False,3713.94
+CUST-0020,Lisa,Davis,lisa.davis20@email.com,20,Male,New York,NY,2021-09-26,False,238.28
+CUST-0021,John,Davis,john.davis21@email.com,34,Male,Phoenix,TX,2022-02-03,False,2268.17
+CUST-0022,Mike,Brown,mike.brown22@email.com,27,Male,Philadelphia,CA,2020-01-13,False,3283.25
+CUST-0023,Chris,Smith,chris.smith23@email.com,69,Female,Chicago,NY,2021-01-15,False,1317.18
+CUST-0024,David,Jones,david.jones24@email.com,50,Female,Philadelphia,NY,2020-07-07,True,3486.12
+CUST-0025,Tom,Garcia,tom.garcia25@email.com,74,Female,New York,TX,2021-12-09,False,3895.22
+CUST-0026,Sarah,Johnson,sarah.johnson26@email.com,36,Female,New York,AZ,2023-03-19,False,2164.9
+CUST-0027,Lisa,Davis,lisa.davis27@email.com,41,Male,Phoenix,IL,2022-07-16,False,325.15
+CUST-0028,Jane,Garcia,jane.garcia28@email.com,47,Male,Chicago,AZ,2022-02-03,True,4487.66
+CUST-0029,Mike,Miller,mike.miller29@email.com,73,Female,Philadelphia,IL,2020-01-04,False,195.83
+CUST-0030,David,Johnson,david.johnson30@email.com,36,Female,Phoenix,IL,2023-04-09,False,4228.07
+CUST-0031,Jane,Jones,jane.jones31@email.com,80,Male,New York,AZ,2022-07-26,False,2205.1
+CUST-0032,John,Brown,john.brown32@email.com,44,Female,Los Angeles,TX,2023-05-06,False,1158.58
+CUST-0033,Sarah,Johnson,sarah.johnson33@email.com,70,Female,Philadelphia,AZ,2022-08-17,True,1452.96
+CUST-0034,Tom,Davis,tom.davis34@email.com,59,Male,Chicago,TX,2023-03-29,False,3004.66
+CUST-0035,Amy,Johnson,amy.johnson35@email.com,23,Male,Phoenix,CA,2023-12-01,False,2820.45
+CUST-0036,Chris,Williams,chris.williams36@email.com,18,Male,New York,CA,2023-05-04,False,2549.27
+CUST-0037,Lisa,Johnson,lisa.johnson37@email.com,39,Female,Chicago,AZ,2020-05-15,False,4998.77
+CUST-0038,Chris,Jones,chris.jones38@email.com,53,Female,Los Angeles,TX,2022-05-06,True,3860.11
+CUST-0039,Lisa,Garcia,lisa.garcia39@email.com,56,Female,Los Angeles,NY,2020-04-19,False,4142.07
+CUST-0040,Sarah,Davis,sarah.davis40@email.com,75,Male,Chicago,PA,2021-04-15,True,4824.11
+CUST-0041,Sarah,Miller,sarah.miller41@email.com,24,Female,Los Angeles,AZ,2021-05-02,False,3793.81
+CUST-0042,Tom,Smith,tom.smith42@email.com,43,Female,Philadelphia,CA,2023-02-14,True,2363.79
+CUST-0043,Tom,Miller,tom.miller43@email.com,36,Male,Houston,NY,2021-09-15,False,274.78
+CUST-0044,Sarah,Williams,sarah.williams44@email.com,80,Female,Los Angeles,IL,2022-02-26,False,2873.1
+CUST-0045,Tom,Johnson,tom.johnson45@email.com,63,Male,Los Angeles,TX,2020-08-21,True,4122.21
+CUST-0046,Amy,Williams,amy.williams46@email.com,24,Male,New York,TX,2022-02-08,True,3183.73
+CUST-0047,Emma,Jones,emma.jones47@email.com,76,Female,New York,TX,2021-09-22,False,1703.83
+CUST-0048,Mike,Johnson,mike.johnson48@email.com,74,Female,Chicago,PA,2020-03-27,True,4658.14
+CUST-0049,Emma,Brown,emma.brown49@email.com,31,Female,Philadelphia,NY,2022-12-14,False,3294.25
+CUST-0050,Tom,Garcia,tom.garcia50@email.com,75,Male,Chicago,PA,2020-11-02,True,2502.3
+CUST-0051,Tom,Garcia,tom.garcia51@email.com,49,Male,Chicago,IL,2022-03-10,False,1779.06
+CUST-0052,John,Williams,john.williams52@email.com,67,Female,Philadelphia,CA,2020-07-08,False,4106.7
+CUST-0053,Chris,Johnson,chris.johnson53@email.com,21,Female,Chicago,IL,2023-02-22,True,1707.47
+CUST-0054,Tom,Brown,tom.brown54@email.com,73,Male,New York,PA,2023-03-17,False,2575.43
+CUST-0055,Amy,Davis,amy.davis55@email.com,72,Female,Phoenix,PA,2023-05-19,False,2139.02
+CUST-0056,Lisa,Williams,lisa.williams56@email.com,48,Male,Philadelphia,NY,2022-03-23,True,3619.62
+CUST-0057,Tom,Smith,tom.smith57@email.com,71,Male,Chicago,PA,2020-03-03,True,3928.71
+CUST-0058,Mike,Smith,mike.smith58@email.com,63,Female,Chicago,AZ,2022-06-25,False,1472.27
+CUST-0059,Amy,Johnson,amy.johnson59@email.com,48,Male,Los Angeles,IL,2022-08-12,False,1222.61
+CUST-0060,Lisa,Miller,lisa.miller60@email.com,18,Female,Chicago,TX,2020-11-10,False,768.99
+CUST-0061,Amy,Miller,amy.miller61@email.com,36,Male,Los Angeles,TX,2020-09-29,True,3701.89
+CUST-0062,Chris,Smith,chris.smith62@email.com,30,Female,Philadelphia,PA,2022-02-18,False,2967.71
+CUST-0063,Jane,Brown,jane.brown63@email.com,76,Male,Philadelphia,AZ,2022-03-09,False,1656.49
+CUST-0064,Amy,Miller,amy.miller64@email.com,56,Male,Phoenix,AZ,2023-01-04,True,3124.11
+CUST-0065,Sarah,Miller,sarah.miller65@email.com,46,Female,Phoenix,PA,2021-03-10,False,517.36
+CUST-0066,Lisa,Smith,lisa.smith66@email.com,30,Female,Phoenix,IL,2023-05-13,False,2735.93
+CUST-0067,Emma,Miller,emma.miller67@email.com,24,Female,New York,PA,2022-08-15,True,1648.83
+CUST-0068,David,Williams,david.williams68@email.com,59,Female,Chicago,AZ,2021-06-24,True,1849.33
+CUST-0069,Sarah,Johnson,sarah.johnson69@email.com,35,Male,Los Angeles,IL,2023-05-25,False,234.92
+CUST-0070,Jane,Garcia,jane.garcia70@email.com,40,Female,Houston,AZ,2021-06-16,True,3436.42
+CUST-0071,Mike,Brown,mike.brown71@email.com,34,Male,Los Angeles,CA,2022-02-27,True,1625.98
+CUST-0072,David,Miller,david.miller72@email.com,33,Female,New York,IL,2020-08-03,True,4896.72
+CUST-0073,Lisa,Brown,lisa.brown73@email.com,33,Female,New York,CA,2022-02-05,True,3181.34
+CUST-0074,Lisa,Davis,lisa.davis74@email.com,23,Male,Houston,TX,2021-07-01,False,2187.76
+CUST-0075,Emma,Brown,emma.brown75@email.com,61,Male,Phoenix,CA,2021-05-22,True,4403.03
+CUST-0076,Sarah,Jones,sarah.jones76@email.com,47,Male,Houston,TX,2022-09-27,True,4285.48
+CUST-0077,Amy,Davis,amy.davis77@email.com,36,Male,Philadelphia,AZ,2022-01-31,True,911.3
+CUST-0078,John,Brown,john.brown78@email.com,52,Male,Houston,IL,2020-11-10,False,4495.39
+CUST-0079,Chris,Williams,chris.williams79@email.com,47,Male,Houston,IL,2023-07-31,True,1522.63
+CUST-0080,Lisa,Johnson,lisa.johnson80@email.com,20,Female,Los Angeles,CA,2021-05-12,False,2519.53
+CUST-0081,Amy,Johnson,amy.johnson81@email.com,70,Female,Philadelphia,IL,2022-08-25,False,1311.9
+CUST-0082,Lisa,Williams,lisa.williams82@email.com,58,Male,Chicago,CA,2023-03-24,False,3815.64
+CUST-0083,Jane,Davis,jane.davis83@email.com,41,Female,Chicago,AZ,2021-06-22,False,1366.7
+CUST-0084,Lisa,Brown,lisa.brown84@email.com,44,Female,New York,AZ,2023-12-07,True,2983.62
+CUST-0085,Tom,Jones,tom.jones85@email.com,42,Male,Los Angeles,NY,2023-11-30,False,180.49
+CUST-0086,Mike,Jones,mike.jones86@email.com,77,Male,New York,AZ,2021-09-06,True,527.31
+CUST-0087,Sarah,Williams,sarah.williams87@email.com,25,Female,Los Angeles,PA,2021-12-26,True,224.2
+CUST-0088,Mike,Miller,mike.miller88@email.com,38,Male,Philadelphia,AZ,2021-03-31,False,202.46
+CUST-0089,Lisa,Smith,lisa.smith89@email.com,69,Male,Philadelphia,PA,2023-02-22,False,1084.21
+CUST-0090,Amy,Johnson,amy.johnson90@email.com,41,Female,New York,TX,2023-02-13,False,3368.97
+CUST-0091,David,Williams,david.williams91@email.com,61,Female,Los Angeles,PA,2023-10-12,False,258.33
+CUST-0092,John,Jones,john.jones92@email.com,34,Male,Phoenix,NY,2022-02-23,False,4106.19
+CUST-0093,Tom,Williams,tom.williams93@email.com,23,Male,New York,AZ,2023-08-04,False,4428.31
+CUST-0094,Jane,Jones,jane.jones94@email.com,58,Male,Houston,PA,2022-10-22,True,1646.26
+CUST-0095,Jane,Johnson,jane.johnson95@email.com,57,Female,Los Angeles,TX,2022-01-09,False,4960.72
+CUST-0096,Lisa,Smith,lisa.smith96@email.com,61,Female,Houston,AZ,2021-10-29,True,4620.81
+CUST-0097,Lisa,Miller,lisa.miller97@email.com,40,Male,Los Angeles,AZ,2022-12-06,False,2148.58
+CUST-0098,John,Jones,john.jones98@email.com,44,Female,Houston,AZ,2022-02-21,False,3115.98
+CUST-0099,Jane,Williams,jane.williams99@email.com,37,Female,Chicago,IL,2022-05-23,False,1344.14
+CUST-0100,Tom,Brown,tom.brown100@email.com,46,Male,Phoenix,NY,2023-05-09,True,1913.99
