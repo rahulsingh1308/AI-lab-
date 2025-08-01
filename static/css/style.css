@@ -1,0 +1,126 @@
+/* Custom Styles for Data Query Tool */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.folder-card, .file-card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.folder-card:hover, .file-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.modal-xl {
+    max-width: 95%;
+}
+
+.filter-row {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.375rem;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.filter-row .form-select,
+.filter-row .form-control {
+    margin-bottom: 0.5rem;
+}
+
+.btn-remove-filter {
+    color: #dc3545;
+    border: none;
+    background: none;
+    font-size: 1.2rem;
+    padding: 0.25rem;
+}
+
+.btn-remove-filter:hover {
+    color: #c82333;
+    background-color: #f8d7da;
+    border-radius: 50%;
+}
+
+.table-responsive {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+#dataTable {
+    font-size: 0.875rem;
+}
+
+#dataTable th {
+    background-color: #e9ecef;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.card-header h5, .card-header h6 {
+    margin-bottom: 0;
+}
+
+/* Loading animation */
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+    .modal-xl {
+        max-width: 98%;
+        margin: 0.5rem;
+    }
+    
+    .filter-row {
+        padding: 0.5rem;
+    }
+    
+    .table-responsive {
+        max-height: 300px;
+    }
+}
+
+/* File type indicators */
+.file-csv {
+    color: #198754 !important;
+}
+
+.file-parquet {
+    color: #0dcaf0 !important;
+}
+
+/* Custom scrollbar for table */
+.table-responsive::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+.table-responsive::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.table-responsive::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
+}
+
+.table-responsive::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
